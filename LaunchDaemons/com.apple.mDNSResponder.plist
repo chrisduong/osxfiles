@@ -13,6 +13,7 @@
 	<key>GroupName</key>
 	<string>_mdnsresponder</string>
 	<key>ProgramArguments</key>
+	<string>--AlwaysAppendSearchDomains</string>
 	<array>
 		<string>/usr/sbin/mDNSResponder</string>
 	</array>
